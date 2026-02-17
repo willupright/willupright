@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hi, I'm Will 👋
 
-<!--
-**willupright/willupright** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer Science student at James Madison University with interests in software engineering and full-stack development.
 
-Here are some ideas to get you started:
+### Technical Skills
+- Languages: Java, Python, C, JavaScript
+- Web: HTML, CSS
+- Databases: MySQL, SQLite
+- Tools: Git, VS Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm Working On
+- Building personal and academic projects
+- Strengthening data structures and algorithms skills
+
+Currently seeking a **Software Engineering / Computer Science internship**.
