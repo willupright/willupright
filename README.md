@@ -2,6 +2,10 @@
 
 I'm a Computer Science student at James Madison University with interests in software engineering and full-stack development.
 
+### 🌐 Portfolio
+Check out my personal website to see my projects, demos, and more about what I’m building:  
+👉 **https://yourwebsite.com**
+
 ### Technical Skills
 - Languages: Java, Python, C, JavaScript
 - Web: HTML, CSS
