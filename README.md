@@ -16,4 +16,4 @@ Check out my personal website to see my projects, demos, and more about what Iâ€
 - Building personal and academic projects
 - Strengthening data structures and algorithms skills
 
-Currently seeking a **Software Engineering / Computer Science internship**.
+Currently seeking a **Software Engineering position**.
